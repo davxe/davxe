@@ -40,6 +40,9 @@
 <br/>
 
 ###
+[![Prince's github stats](https://github-readme-stats-git-master.davxe.vercel.app/api?username=davxe)](https://github.com/davxe/github-readme-stats)
+
+
 [linkedin]: https://www.linkedin.com/in/prince-kaushal-589b48199/
 [github]: https://github.com/davxe/
 [gmail]: mailto:princekaushal14918177h@gmail.com
