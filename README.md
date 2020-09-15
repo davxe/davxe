@@ -40,7 +40,7 @@
 <br/>
 
 ###
-![Prince's github stats](https://github-readme-stats.vercel.app/api?username=davxe&show_icons=true&theme=radical)
+![Prince's github stats](https://github-readme-stats.vercel.app/api?username=davxe&show_icons=true&theme=radical&bg_color=#ffffff)
 
 
 
