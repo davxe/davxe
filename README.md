@@ -16,8 +16,8 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/prince-kaushal-589b48199/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Prince%20Kaushal-green?style=flat&logo=linkedin"></a>
+<p>
+<a href="https://www.linkedin.com/in/prince-kaushal-589b48199/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-my%20linkedin%20profile-green?style=flat&logo=linkedin"></a>
 <a href="https://github.com/davxe"><img alt="Github" src="https://img.shields.io/badge/GitHub-my%20github%20link-green?style=flat&logo=github"></a>
 <a href="mailto:princekaushal14918177h@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-my%20mail%20id-green?style=flat&logo=gmail"></a>
 </p>
