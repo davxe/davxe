@@ -9,8 +9,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | ES6 | TypeScript 
-- 🌐 &nbsp; HTML | CSS | ReactJS | Redux | Mobx | Node.js | Express.js | GraphQl | StoryBook | Jest
+- 💻 &nbsp; JavaScript | ES6 | TypeScript |
+- 🌐 &nbsp; HTML | CSS | ReactJS | Redux | Mobx | Node.js | Express.js | GraphQl | StoryBook | Jest |
 - 🛢 &nbsp; MongoDB |
 - 🔧 &nbsp; Git |
 
@@ -37,6 +37,7 @@
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" />
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
 
 
 
