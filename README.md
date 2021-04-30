@@ -40,6 +40,7 @@
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
 
 
+<img align="left" height="32" width="32" src="https://api.iconify.design/logos-mobx.svg" />
 
 
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
